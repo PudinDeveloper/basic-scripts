@@ -1,5 +1,5 @@
 @echo off
-title Mayor de 2 numeros A o B
+title Nombre y apellido
 color a
 
 echo.
