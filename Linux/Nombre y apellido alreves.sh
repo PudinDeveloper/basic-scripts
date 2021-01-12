@@ -5,6 +5,6 @@ read nombre
 echo "Introduce el Apellido:"
 read apellido
 
-echo "\n"
-
 echo $apellido $nombre
+
+echo "Script Completed"

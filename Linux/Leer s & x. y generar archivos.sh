@@ -1,5 +1,4 @@
 echo "Leer s & x. y generar archivos"
-echo "\n"
 
 echo "Ingresa cadena S: "
 read s
@@ -11,3 +10,5 @@ do
     touch > $s-$x-#$i.txt
     clear
 done
+
+echo "Script Completed"

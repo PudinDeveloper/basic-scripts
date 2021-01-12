@@ -25,3 +25,5 @@ fi
 if [ $equipo != America -a $equipo != Pumas -a $equipo != Monterrey -a $equipo != Chivas ]; then
         echo "No pos te Amolaste Brother"
 fi
+
+echo "Script Completed"

@@ -16,3 +16,5 @@ fi
 if [ $num1 -gt $num2 ]; then
         echo $num1 "es mayor"
 fi
+
+echo "Script Completed"

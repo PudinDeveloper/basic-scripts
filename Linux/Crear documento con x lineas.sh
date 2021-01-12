@@ -9,3 +9,5 @@ for ((i=1;i<=$r;i++))
 do
     echo "$i Line" >> sistemas_op.txt
 done
+
+echo "Script Completed"

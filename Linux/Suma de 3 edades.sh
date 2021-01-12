@@ -8,3 +8,4 @@ echo -n "Dame la 3ra Edad: "
 read num3
 suma=$(($num1 + $num2 + $num3))
 echo El resultado es $suma
+echo "Script Completed"
