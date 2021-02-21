@@ -1,4 +1,6 @@
-# Algunos Comandos a verificar en proximos scripts.
+# Proyecto Finalizado
+
+# Algunos Comandos:
 
 ## Windows (CMD || Powershell)
 ### EQU 
